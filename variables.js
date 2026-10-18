@@ -1,7 +1,7 @@
 
-var name = "Rahul";
-let age = 21;
-const college = "ABC College";
+var name = "durga";
+let age = 18;
+const college = "sasi College";
 console.log("Name:", name);
 console.log("Age:", age);
 console.log("College:", college);
